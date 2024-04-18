@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Revalia&display=swap');
+
+body{
+    background-color: #033E6B;
+}
+.logo{
+    position: absolute;
+}
+
+.h1_main{
+    font-family: "Revalia", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    position: absolute;   
+}
