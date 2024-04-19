@@ -8,6 +8,10 @@ h1, p{
   font-weight: 400;
   font-style: normal;
 }
+.list{
+    width: 100%;
+    height: 800px;
+}
 .list_h1{
     color: white;
     font-weight: 500;
@@ -15,6 +19,7 @@ h1, p{
     left: 50px;
     position: absolute;
     font-size: 48px;
+    top: 150px;
 }
 .main{
     width: 100%;
@@ -28,25 +33,42 @@ body{
 .logo_nav{
     position: absolute;
     top: 30px;
+    left: 50px;
 }
 
-.h1_main{
+.h1_nav{
     font-family: "Revalia", sans-serif;
     font-weight: 400;
     font-style: normal;
     color: white;
     position: absolute; 
     top: -2px; 
-    left: 75px; 
+    left: 125px; 
 }
 .logo_footer{
     width:  64px;
 }
 .footer{
     width: 100%;
-    height: 100px;
-    position: absolute;
-    bottom: 0px;
+    height: 137px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
     right: 0px;
-    background-color: black;
+    background-color: #011423;
+}
+.check_1, .check_2, .check_3{
+    width: 75%;
+    height: 72px;
+    background-color: #FFC373;  
+    border-radius: 15px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    padding-bottom: 30px;
+}
+.list_ul{
+    margin-top: 200px;
 }
