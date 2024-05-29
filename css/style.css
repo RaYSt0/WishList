@@ -177,3 +177,17 @@ li{
     padding-top: 25px !important;
     padding-left: 10px !important;
 }
+.logo_fot{
+    position: absolute;
+    top: 30px;
+    left: 20px;
+}
+.fot{
+    font-family: "Revalia", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    position: absolute; 
+    top: -2px; 
+    left: 95px; 
+}
