@@ -168,3 +168,7 @@ li{
     text-decoration: none;
     color: #000;
 }
+.list_text{
+    padding-top: 25px !important;
+    padding-left: 10px !important;
+}
