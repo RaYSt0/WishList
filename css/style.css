@@ -152,3 +152,19 @@ ul{
 li{
     padding-bottom: 30px;
 }
+.check_1, .check_2, .check_3{
+    width: 1300px;
+    height: 72px;
+    background-color: #FFC373;  
+    border-radius: 15px;
+}
+.list_1, .list_2, .list_3{
+    display: inline;
+    margin-right: 300px;
+    top: 100px;
+    text-decoration: none;
+}
+.b_l{
+    text-decoration: none;
+    color: #000;
+}
