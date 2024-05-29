@@ -9,13 +9,18 @@ h1, p{
 .list{
     width: calc(100vw - 50px);
     margin-left: 50px;
+    font-family: "Exo 2", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 .categories {
     display: inline;
+    color: #FFC373;
+
 }
 .category {
     display: inline;
-    margin-right: 230px;
+    margin-right: 218px;
 }
 .list_h1{
     color: white;
@@ -62,7 +67,7 @@ h1, p{
 }
 .item_value_input {
     width: 180px;
-    margin: 24px 30px 0 50px;
+    margin: 24px 24px 0 50px;
     background-color: #00000000;
     border: 0;
     outline: none;
